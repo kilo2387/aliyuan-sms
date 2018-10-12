@@ -1,0 +1,19 @@
+{
+  "name": "stan/aliyun-sms",
+  "version": "0.0.1",
+  "dependencies": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "stan\\aliyunsms\\": ""
+    }
+  },
+  "authors": [
+    {
+      "name": "stan",
+      "email": "stan87@foxmail.com"
+    }
+  ],
+  "require": {}
+}
